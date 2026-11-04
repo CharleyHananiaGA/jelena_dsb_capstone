@@ -1,4 +1,4 @@
-# dsb_capstone
+# dsb_capstone project
 # Vignette Sales and Vessel Revenue Analysis (Capstone Project)
 
 ## Project Overview (Data Question)
